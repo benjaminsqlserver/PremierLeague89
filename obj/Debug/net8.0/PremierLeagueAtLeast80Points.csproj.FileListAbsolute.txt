@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\bin\Debug\net8.0\PremierLeagueAtLeast80Points.exe
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\bin\Debug\net8.0\PremierLeagueAtLeast80Points.deps.json
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\bin\Debug\net8.0\PremierLeagueAtLeast80Points.runtimeconfig.json
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\bin\Debug\net8.0\PremierLeagueAtLeast80Points.dll
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\bin\Debug\net8.0\PremierLeagueAtLeast80Points.pdb
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\obj\Debug\net8.0\PremierLeagueAtLeast80Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\obj\Debug\net8.0\PremierLeagueAtLeast80Points.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\obj\Debug\net8.0\PremierLeagueAtLeast80Points.AssemblyInfo.cs
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\obj\Debug\net8.0\PremierLeagueAtLeast80Points.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\obj\Debug\net8.0\PremierLeagueAtLeast80Points.dll
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\obj\Debug\net8.0\refint\PremierLeagueAtLeast80Points.dll
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\obj\Debug\net8.0\PremierLeagueAtLeast80Points.pdb
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\obj\Debug\net8.0\PremierLeagueAtLeast80Points.genruntimeconfig.cache
+C:\Users\user\source\repos\PremierLeagueAtLeast80Points\obj\Debug\net8.0\ref\PremierLeagueAtLeast80Points.dll

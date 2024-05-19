@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PremierLeagueAtLeast80Points/1.0.0": {
+        "runtime": {
+          "PremierLeagueAtLeast80Points.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PremierLeagueAtLeast80Points/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
